@@ -30,3 +30,6 @@ void solve_nqueens(int n) {
 
     free(board);
 }
+
+//all solutions are accessible now //
+//gonna try this again// 
